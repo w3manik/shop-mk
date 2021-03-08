@@ -1,0 +1,991 @@
+
+/* -----indexpage-----*/
+@media (max-width: 575.98px){
+    #hedtop {
+        padding-top: 20px;
+    }
+    .banner-item img{
+        width: 100%;
+        height: 500px;
+    }
+    .baner-text h2 {
+        font-size: 40px;
+    }
+    .baner-text h3 {
+        font-size: 25px;
+    }
+    .baner-text p {
+        font-size: 18px;
+    }
+    .navbar-nav .nav-link {
+        text-align: center;
+    }
+    .navbar .navbar-nav .nav-link {
+        line-height: 5px;
+        background: darkred;
+        color: #fff;
+        padding-bottom: 10px;
+    }
+    .navbar .navbar-nav .nav-link::before {
+        display: none;
+    }
+    button:focus {
+        outline: none;
+    }
+    .tow-pc {
+        margin: 10px 0;
+    }
+
+    .two-pc-text h4 {
+        font-size: 20px;
+    }
+    .two-pc-text {
+        padding-top: 27px;
+    }
+    #two-side {
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+    #fedruct {
+        padding-top: 11px;
+    }
+    .fre-text h3 {
+        font-size: 21px;
+    }
+    .fec-info h5 {
+        font-size: 9px;
+    }
+    .fec-info p {
+        font-size: 13px;
+    }
+    .feed-text h3 {
+        font-size: 26px;
+    }
+    .feed-text span {
+        font-size: 29px;
+    }
+    #recomand {
+        padding-top: 4px;
+    }
+    #recomand {
+        padding-top: 3px;
+        padding-bottom: 6px;
+    }
+    .ne-text h3 {
+        font-size: 23px;
+    }
+    #newcastal {
+        padding-top: 29px;
+        padding-bottom: 4px;
+    }
+    #logo-slide .slick-slide img {
+        width: 40px;
+        height: 50px;
+    }
+    #logo-slide .se {
+        display: none !important;
+    }
+    #logo-slide .sc {
+        display: none !important;
+    }
+
+    #footer {
+        padding-top: 25px;
+        padding-bottom: 35px;
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #hedtop {
+        padding-top: 20px;
+    }
+    .banner-item img{
+        width: 100%;
+        height: 500px;
+    }
+    .navbar-nav .nav-link {
+        text-align: center;
+    }
+    .navbar .navbar-nav .nav-link {
+        line-height: 5px;
+        background: darkred;
+        color: #fff;
+        padding-bottom: 10px;
+    }
+    .navbar .navbar-nav .nav-link::before {
+        display: none;
+    }
+    button:focus {
+        outline: none;
+    }
+
+    .tow-pc {
+        margin: 10px 0;
+    }
+    #two-side {
+        padding-top: 6px;
+        padding-bottom: 3px;
+    }
+    .fec-info h5 {
+        font-size: 10px;
+    }
+    .feed-text h3 {
+        font-size: 45px;
+    }
+    #recomand {
+        padding-top: 3px;
+        padding-bottom: 8px;
+    }
+    #newcastal {
+        padding-top: 29px;
+        padding-bottom: 2px;
+    }
+    #logo-slide .slick-slide img {
+        width: 50px;
+        height: 60px;
+    }
+    #logo-slide .se {
+        display: none !important;
+    }
+    #logo-slide .sc {
+        display: none !important;
+    }
+    #logo-slide {
+        padding-top: 37px;
+        padding-bottom: 39px;
+    }
+    #footer {
+        padding-top: 25px;
+        padding-bottom: 35px;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #hedtop {
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+    .banner-item img{
+        width: 100%;
+        height: 500px;
+    }
+    .navbar-nav .nav-link {
+        text-align: center;
+    }
+    .navbar .navbar-nav .nav-link {
+        line-height: 5px;
+        background: darkred;
+        color: #fff;
+        padding-bottom: 10px;
+    }
+    .navbar .navbar-nav .nav-link::before {
+        display: none;
+    }
+    button:focus {
+        outline: none;
+    }
+    .two-pc-text h4 {
+        font-size: 24px;
+    }
+    .two-pc-text {
+        padding-top: 31px;
+    }
+    #two-side {
+        padding-top: 55px;
+        padding-bottom: 5px;
+    }
+    .rec-info h3 {
+        font-size: 14px;
+        padding-top: 9px;
+    }
+    #logo-slide .slick-slide img {
+        width: 70px;
+        height: 80px;
+    }
+    #logo-slide .se {
+        display: none !important;
+    }
+    #logo-slide .sc {
+        display: none !important;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .feed-text h3 {
+        font-size: 56px;
+    }
+    #hedtop {
+        padding-top: 27px;
+        padding-bottom: 0;
+    }
+}
+
+
+
+/*----womenpage----*/
+
+@media (max-width: 575.98px) {
+    
+#women-page .baner-text h2 {
+        font-size: 30px;
+}
+#women-page .baner-text p {
+        font-size: 11px;
+}
+#women-page .left {
+	display: none!important;
+}
+#women-page .right {
+	display: none!important;
+}
+
+
+.sitebar .click {
+	display: none;
+}
+#women-page .navbar-toggler i{
+    color: #fff;
+}
+#women-page .nav-ic i {
+	display: none;
+}
+#women-page .banner-item img{
+    width: 100%;
+    height: 600px;
+}
+#women-page .navbar .navbar-nav .nav-link {
+	padding-top: 30px;
+}
+.feterr-pr-text h3 {
+	font-size: 24px;
+}
+#fetudprodec {
+	padding-top: 26px;
+	padding-bottom: 26px;
+}
+.feternn-doc h3 {
+	font-size: 10px;
+}
+.feternn-doc p {
+	font-size: 11px;
+}
+.feterp-in {
+	padding: 20px 0;
+}
+.feternn-doc h5 {
+	font-size: 12px;
+}
+#reco-woman {
+	padding-top: 2px;
+	padding-bottom: 4px;
+}
+#recenwoman {
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.rece-nes-part {
+	margin-top: 30px;
+}
+#footerwoman {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .sitebar .click {
+        display: none;
+    }
+    #women-page .navbar-toggler i{
+        color: #fff;
+    }
+    #women-page .nav-ic i {
+        display: none;
+    }
+    .feternn-doc h5 {
+        font-size: 15px;
+    }
+
+    #fetudprodec {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #reco-woman {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    #footerwoman {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .fotabc h4 {
+        font-size: 13px;
+    }
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .sitebar .click {
+        display: none;
+    }
+    #women-page .navbar-toggler i{
+        color: #fff;
+    }
+    #women-page .nav-ic i {
+        display: none;
+    }
+    #fetudprodec {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    #reco-woman {
+        padding-top: 10px;
+        padding-bottom: 30px;
+    }
+
+    #recenwoman {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .mcpccre i {
+        font-size: 10px;
+    }
+    .abexe h3 {
+        font-size: 18px;
+    }
+    .fotabc h4 {
+        font-size: 11px;
+    }
+    .subcs {
+        width: 200px;
+    }
+    .dcimm {
+        top: 12px;
+    }
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .sitebar .click {
+        display: none;
+    }
+    .navbar .navbar-nav .nav-link {
+        font-size: 12px;
+    }
+
+}
+
+
+/*---menpage----*/
+
+@media (max-width: 575.98px) {
+    #men-page .sitebar .click {
+        display: none;
+    }
+    #men-page .navbar-toggler i{
+        color: #fff;
+    }
+    #men-page .navbar .navbar-nav .nav-link {
+        padding-top: 21px;
+    }
+
+    #men-page .banner-item img{
+        width: 800px;
+        height: 600px;
+    }
+    .left {
+        display: none !important;
+    }
+    .right {
+        display: none !important;
+    }
+    .nav-ic i {
+        display: none;
+    }
+    .baner-text h2 {
+        font-size: 28px;
+    }
+    .baner-text h3 {
+        font-size: 21px;
+    }
+    .baner-text p {
+        font-size: 11px;
+    }
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #men-page .sitebar .click {
+        display: none;
+    }
+    #men-page .navbar-toggler i{
+        color: #fff;
+    }
+    .baner-text h2 {
+        font-size: 61px;
+    }
+    .nav-ic i {
+        display: none;
+    }
+    #men-page .navbar .navbar-nav .nav-link {
+        padding-top: 38px;
+    }
+    .rece-nes-part {
+        margin-top: 20px;
+    }
+    .subcs input {
+        background: #262626;
+        width: 200px;
+    }
+    #men-page .form-control:focus {
+        background-color: #262626;
+    }
+    #men-page .dcimm {
+        top: 10px;
+        right: 303px;
+    }
+
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #men-page .navbar-toggler i{
+        color: #fff;
+    }
+    .baner-text h2 {
+        font-size: 61px;
+    }
+    .nav-ic i {
+        display: none;
+    }
+    .dcimm {
+        top: 6px;
+    }
+    .dcimm {
+        right: 9px;
+    }
+
+    #footerwoman {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+
+
+}
+
+/*-----shoespages-----*/
+
+@media (max-width: 575.98px) {
+    
+    #shoes-page button:focus {
+        outline: 0;
+    }
+
+    #shoes-page .navbar .navbar-nav .nav-link {
+        padding-top: 22px;
+    }
+
+    .shobe-item img{
+        width: 100%;
+        height: 400px;
+    }
+    .shobe-ove-text h2 {
+        font-size: 26px;
+    }
+    #shoes-page .dcimm {
+        top: 4px;
+        right: 12px;
+    }
+    #shoes-page .subcs input {
+        background: #262626;
+    }
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .shobe-ove-text h2 {
+        font-size: 27px;
+    }
+    #shoes-page .navbar .navbar-nav .nav-link {
+        padding-top: 29px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #shoes-page .navbar .navbar-nav .nav-link {
+        padding-top: 26px;
+    }
+
+}
+
+
+/*-----accessoriespage-----*/
+
+@media (max-width: 575.98px) {
+    #headati {
+        display: none;
+    }
+    .hedthed {
+        display: none;
+    }
+    .pre-hed h3 {
+        font-size: 19px;
+    }
+    #main-prod-accessories {
+        padding-top: 32px;
+        padding-bottom: 30px;
+    }
+    .plsu-sin a {
+        padding: 6px 6px;
+    }
+
+    .add-tow a {
+        padding: 18px 77px;
+    }
+    .share-cata-item a {
+        padding-left: 15px;
+    }
+    .nav-tabs .nav-link {
+        font-size: 11px;
+    }
+    .cus-re-text h5 {
+        font-size: 14px;
+    }
+    .cus-re-text span {
+        font-size: 13px;
+        padding-left: 19px;
+    }
+    .deff {
+        text-align: center;
+    }
+    .cus-re-text {
+        text-align: center;
+    }
+    .pre-th-el span {
+        font-size: 20px;
+    }
+    .ca-site a {
+        font-size: 9px;
+        padding: 0 6px;
+    }
+    .no-ret h2 {
+        font-size: 43px;
+    }
+    .htr h3 {
+        padding-top: 15px;
+    }
+    .form-control {
+        margin: 10px 0;
+    }
+    .prtt h3 {
+        font-size: 22px;
+    }
+    #all-logo .slick-slide img {
+        width: 40px;
+        height: 40px;
+    }
+    #all-logo .jori {
+        display: none !important;
+    }
+    #all-logo .jorim {
+        display: none !important;
+    }
+    #all-logo {
+        padding-top: 24px;
+        padding-bottom: 30px;
+    }
+    .enter-text h5 {
+        font-size: 16px;
+    }
+    #footer-assco {
+        padding-top: 26px;
+        padding-bottom: 30px;
+    }
+    #footer-assco {
+        padding-top: 26px;
+        padding-bottom: 30px;
+    }
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #headati {
+        display: none;
+    }
+    .subsew input {
+        margin-left: 18px;
+    }
+    .my-ache {
+        display: none;
+    }
+    .slick-slide img {
+        width: 100%;
+    }
+
+    .htr h3 {
+        padding-top: 20px;
+    }
+    .mas-te a {
+        display: none;
+    }
+    .item-iotem h5 {
+        font-size: 13px;
+    }
+    #all-logo .jori {
+        display: none !important;
+    }
+    #all-logo .jorim {
+        display: none !important;
+    }
+    #all-logo {
+        padding-top: 18px;
+        padding-bottom: 21px;
+    }
+    #footer-assco {
+        padding-top: 33px;
+        padding-bottom: 26px;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .head-itemw a {
+        font-size: 12px;
+        padding-left: 3px;
+    }
+    .op i {
+        padding-left: 16px;
+    }
+    .main-socila-ic i {
+        display: none;
+    }
+    .plsu-sin a {
+        padding: 2px 11px;
+    }
+    .add-tow a {
+        padding: 18px 44px;
+    }
+    .pre-hed h3 {
+        font-size: 19px;
+    }
+    .pre-th-el span {
+        font-size: 20px;
+    }
+    #accessories-page .subsew input {
+        padding-left: 20px;
+        margin-left: 11px;
+    }
+
+    .my-ache a {
+        font-size: 8px;
+        padding-left: -3px;
+    }
+
+    .htr h3 {
+        padding-top: 20px;
+    }
+    #all-logo .jori {
+        display: none !important;
+    }
+    #all-logo .jorim {
+        display: none !important;
+    }
+
+    #all-logo .slick-slide img {
+        width: 60px;
+        height: 50px;
+    }
+    #all-logo {
+        padding-top: 12px;
+        padding-bottom: 37px;
+    }
+
+    .pre-th-el span {
+        font-size: 11px;
+    }
+    .share-ico i {
+        padding: 5px;
+        margin-left: 1px;
+    }
+
+    .cus-reve {
+        padding-top: 3px;
+    }
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .plsu-sin a {
+        padding: 5px 6px;
+    }
+    .add-tow a {
+        padding: 18px 79px;
+    }
+
+}
+
+
+
+/*----selofpage-----*/
+
+@media (max-width: 575.98px) {
+    #sellof-page #headati {
+        display: none;
+    }
+    .self-ic i {
+        display: none;
+    }
+    .chang-ite {
+        padding-bottom: 11px;
+    }
+    #sellof-page #all-logo {
+        padding-top: 5px;
+        padding-bottom: 29px;
+    }
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .foter-ass h3 {
+        font-size: 18px;   
+    }
+    
+
+
+
+}
+
+/*----collectionpage------*/
+
+@media (max-width: 575.98px) {
+    .colmaico h3 {
+        font-size: 14px;
+        padding-left: 55px;
+    }
+    .prc h5 {
+        font-size: 11px;
+    }
+    .mcu h5 {
+        font-size: 11px;
+    }
+    .dcua a {
+        padding: 6px 8px;
+        margin-left: -276px;
+    }
+    .updatol a {
+        padding: 8px 18px;
+    }
+    .cla-shop h3 {
+        padding-top: 20px;
+    }
+
+    .unso h4 {
+        font-size: 20px;
+    }
+
+    .res-innfo h3 {
+        font-size: 10px;
+    }
+    .res-innfo h4 {
+        font-size: 11px;
+    }
+    .res-innfo i {
+        padding: 0 3px;
+    }
+
+    .colmaico h3 {
+        color: red;
+    }
+    .colmaico {
+        background: 0;
+    }
+
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .colmaico h3 {
+        padding-left: 30px;
+    }
+    .prc h5 {
+        font-size: 14px;
+        padding-left: 37px;
+    }
+    .mcu h5 {
+        font-size: 15px;
+        padding-left: 24px;
+    }
+    .rpre-text h4 {
+        font-size: 10px;
+    }
+    .rpre-text {
+        padding-left: 14px;
+    }
+    .oxex a {
+        padding: 1px;
+    }
+    .dcua a {
+        padding: 6px 8px;
+        margin-left: -276px;
+    }
+    .updatol a {
+        padding: 10px 13px;
+    }
+    .cla-shop h3 {
+        padding-top: 20px;
+        text-align: center;
+    }
+    .res-innfo h3 {
+        font-size: 11px;
+    }
+    .res-innfo h4 {
+        font-size: 13px;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .my-ache {
+        display: none;
+    }
+    .colmaico h3 {
+        padding-left: 28px;
+    }
+    .prc h5 {
+        padding-left: 31px;
+    }
+    .mcu h5 {
+        padding-left: 26px;
+    }
+    .oxex a {
+        padding: 5px;
+    }
+    .dcua a {
+        padding: 14px 18px;
+        margin-left: -276px;
+    }
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .dcua a {
+        padding: 14px 18px;
+    }
+}
+
+
+/*--contactpage---*/
+
+@media (max-width: 575.98px) {
+    
+    #hed2 {
+        display: none;
+    }
+    
+}
+
+
+/*--kidpage---*/
+
+@media (max-width: 575.98px) {
+    #kid-page .self-ic i {
+        display: none;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #kid-page .self-ic i {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #kid-page .self-ic i {
+        display: none;
+    }
+}
+
+
+/*-----womn-------*/
+
+
+@media (max-width: 575.98px) {
+    #womn-page .self-ic i {
+        display: none;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #womn-page .self-ic i {
+        display: none;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #womn-page .self-ic i {
+        display: none;
+    }
+}
+
+
+
+/*------selman------*/
+@media (max-width: 575.98px) {
+    #sellof-page .self-ic i {
+        display: none;
+    }
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #sellof-page .self-ic i {
+        display: none;
+    }
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #sellof-page .self-ic i {
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
